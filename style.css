@@ -1,0 +1,24 @@
+.buton{
+
+	width: 220px; 
+	height: 40px;
+	color: purple;
+	background-color: pink;
+	font-weight: bold;
+	font-size: 20px;
+}
+.buton.hover{
+	background-color: purple;
+}
+.anabaslik{
+	font-weight: bold;
+	font-size: 40px;
+}
+.baslik{
+	font-weight: bold;
+	font-size: 20px;
+
+}
+.buton:click{
+background-color: purple; 
+}
